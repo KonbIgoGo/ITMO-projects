@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="i18n">
+<file alias="game_ar_TD.qm">C:/cppCourse/ct-cpp24-backlog-lw-minesweeper-KonbIgoGo/game/release/game_ar_TD.qm</file>
+<file alias="game_en_US.qm">C:/cppCourse/ct-cpp24-backlog-lw-minesweeper-KonbIgoGo/game/release/game_en_US.qm</file>
+<file alias="game_ru_RU.qm">C:/cppCourse/ct-cpp24-backlog-lw-minesweeper-KonbIgoGo/game/release/game_ru_RU.qm</file>
+</qresource>
+</RCC>

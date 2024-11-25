@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/dbg_off.svg</file>
+        <file>icons/dbg_on.svg</file>
+        <file>icons/left_hand_off.svg</file>
+        <file>icons/left_hand_on.svg</file>
+        <file>icons/setting.svg</file>
+    </qresource>
+</RCC>
