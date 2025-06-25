@@ -1,0 +1,8 @@
+/bin
+/generated
+/.idea
+/docs/spec/*
+/cover.out
+/cover.out.tmp
+internal/mocks
+.env
